@@ -11,7 +11,6 @@ Technologies in project:
 * Adressables
 * Scene Management
 * Programming Patterns (Singletone)
-* UniRx 
 * Namespaces
 * Achievement and level save system (Player Prefs)
 * URL
@@ -30,7 +29,7 @@ Audience: kids 5 +
 ## Mini Game 1
 "Pointsman": decide if the pedestrian can cross the road.
 
-The game will make your kids to know this rule wery well.
+The game will make your kids know this rule wery well.
 
 <img width="1047" alt="Screenshot 2023-05-10 at 11 01 16" src="https://github.com/pinksharkapps/deep/assets/116499783/50bc7dd3-f2b4-49fd-9322-589f79fa5929">
 
