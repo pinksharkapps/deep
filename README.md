@@ -11,7 +11,6 @@ Technologies in project:
 * Adressables
 * Scene Management
 * Programming Patterns (Singletone)
-* UniRx 
 * Namespaces
 * Achievement and level save system (Player Prefs)
 * URL
