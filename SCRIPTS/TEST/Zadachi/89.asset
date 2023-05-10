@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82019ac4d42c451a8644bf9fbc72b67e, type: 3}
+  m_Name: 89
+  m_EditorClassIdentifier: 
+  ques_Number: 89
+  ques_Image:
+    m_AssetGUID: 5b64545bacc694b77aacbc2047d603f9
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  ques_DoesImage_A_exist: 0
+  ques_Image_A:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  ques_Text: "\u041F\u0440\u0438\u0431\u043B\u0438\u0436\u0430\u0435\u0442\u0441\u044F
+    \u043C\u0430\u0448\u0438\u043D\u0430 \u0441 \u0432\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044B\u043C\u0438
+    \u043C\u0430\u044F\u0447\u043A\u0430\u043C\u0438. \u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043D\u043E
+    \u043B\u0438 \u043D\u0430\u0447\u0438\u043D\u0430\u0442\u044C \u043F\u0435\u0440\u0435\u0445\u043E\u0434
+    \u0434\u043E\u0440\u043E\u0433\u0438?"
+  ques_Var1: "\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043D\u043E"
+  ques_Var2: "\u0417\u0430\u043F\u0440\u0435\u0449\u0435\u043D\u043E"
+  ques_Var3: 
+  ques_Answer: 2
