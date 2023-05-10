@@ -84,4 +84,5 @@ IDE used:  Rider
 
 © Hanna Peraroslaya 2023
 
-Illustrations, sprite animations, UI, game design and idea of mini-games "Pointsman" and "Find a pedestrian" © Hanna Peraroslaya 2023
+Illustrations, sprite animations, UI, game design
+and idea of mini-games "Pointsman" and "Find a pedestrian" © Hanna Peraroslaya 2023
