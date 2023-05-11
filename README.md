@@ -18,7 +18,7 @@ Technologies in project:
 * AR 
 
 
-Project consistc of 5 mini-games with one common topic of traffic rules for kids.
+Project consists of 5 mini-games with one common topic of traffic rules for kids.
 
 Audience: kids 5 + 
 
@@ -29,7 +29,7 @@ Audience: kids 5 +
 ## Mini Game 1
 "Pointsman": decide if the pedestrian can cross the road.
 
-The game will make your kids to know this rule wery well.
+The game will automate the skill of acting according to pointsman's signals.
 
 <img width="1047" alt="Screenshot 2023-05-10 at 11 01 16" src="https://github.com/pinksharkapps/deep/assets/116499783/50bc7dd3-f2b4-49fd-9322-589f79fa5929">
 
